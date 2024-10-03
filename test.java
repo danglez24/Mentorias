@@ -12,7 +12,7 @@ public class test {
                 System.out.println(input);
             }
         }
-        String hola = "Hola prueba 1 ";
+        String hola = "Hola prueba 2 ";
         
         System.out.println(hola);
     }
